@@ -21,5 +21,5 @@ bash -c "$(curl https://raw.githubusercontent.com/myxuebi/xbtooln/master/xbtooln
 ```
 *温馨提示:目前脚本处于beta版，可能会有无数bug，请见谅*
 
-
+**2022-06-02 这个项目还在**
 
